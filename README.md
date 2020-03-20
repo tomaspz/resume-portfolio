@@ -11,7 +11,7 @@
 
 * This portfolio includes a copy of an updated resume and a link to the LinkedIn profile
 
-### Updated Portfolio
+## Updated Portfolio
 
 The updated portfolio provides the following content:
 
@@ -25,7 +25,7 @@ The updated portfolio provides the following content:
   * Link and screenshot of the deployed application
 
 
-#### Updated Design
+## Updated Design
 
 * The site design looks "polished." 
 * Mobile-first design.
@@ -33,7 +33,7 @@ The updated portfolio provides the following content:
 * The font size is large enough to read.
 
 
-### Updated GitHub Profile 
+## Updated GitHub Profile 
 
 * Now the GitHub profile contains: 
 
@@ -43,27 +43,24 @@ The updated portfolio provides the following content:
     * Email
     * Link to the portfolio
 
-### Updated Resume 
-
-* The resume is clear, concise and compelling.
-
-
-### Updated LinkedIn Profile 
-
-* The LinkedIn Profile has been updated with a strong bio statement, a professional photo, and links to Github and portfolio.
-
-# Screenshot of the main page
-
-![image](https://github.com/tomaspz/resume-portfolio/blob/master/assets/img/screenshot-resume-portfolio.png)
-
-# URL to the resume
+## Resume URL
 
 https://github.com/tomaspz/resume-portfolio/blob/master/assets/docs/TPZ-Resume.pdf
 
-# URL to GitHub repository
+
+## LinkedIn Profile 
+
+* The LinkedIn Profile has been updated with a strong bio statement, a professional photo, and links to Github and portfolio.
+
+## Portfolio Screenshot
+
+![image](https://github.com/tomaspz/resume-portfolio/blob/master/assets/img/screenshot-resume-portfolio.png)
+
+
+## GitHub Repository URL
 
 https://github.com/tomaspz/resume-portfolio
 
-# URL to deployed app
+## Deployed App URL
 
 https://tomaspz.github.io/resume-portfolio/.
