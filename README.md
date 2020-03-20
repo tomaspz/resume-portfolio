@@ -4,10 +4,10 @@
 * The project Concert Hunt is a web application that uses music APIs to get information about a specific artist, album or song.
 
 * Other featured coding examples are:
-   ** Weather Dashboard: an web app that allows a user to search the weather for a specific city and gives the user the current weather and a 5 day forecast.
-   ** Password Generator: a web app that allows a user to generate a random password. Once the user presses the button "Generate Password", additional questions are asked about the type of characters the user wants to include in the password. The password generated is in betweeen 8 and 128 characters, which is also selected by the user.
-   ** Day Planner: a web app that allows a user to set daily tasks during working hours.
-   ** Code Refactor: a sample of cleaning and polishing HTML and CSS code.
+   * Weather Dashboard: an web app that allows a user to search the weather for a specific city and gives the user the current weather and a 5 day forecast.
+   * Password Generator: a web app that allows a user to generate a random password. Once the user presses the button "Generate Password", additional questions are asked about the type of characters the user wants to include in the password. The password generated is in betweeen 8 and 128 characters, which is also selected by the user.
+   * Day Planner: a web app that allows a user to set daily tasks during working hours.
+   * Code Refactor: a sample of cleaning and polishing HTML and CSS code.
 
 * This portfolio includes a copy of an updated resume and a link to the LinkedIn profile
 
@@ -54,7 +54,7 @@ The updated portfolio provides the following content:
 
 # Screenshot of the main page
 
-
+https://github.com/tomaspz/resume-portfolio/blob/master/assets/img/screenshot-resume-portfolio.png
 
 # URL to the resume
 
