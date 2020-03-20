@@ -151,16 +151,16 @@
     background-color: rgb(238, 232, 172);
   }
 
- .contact-details {
+ #contact-details {
      margin-top: 20px;
 
  }
 
- .contact-details > h6 {
+ #contact-details > h6 {
      margin-bottom: 20px;
  }
 
- .contact-details > p {
+ #contact-details > p {
      font-size: small;
  }
 
