@@ -54,7 +54,7 @@ The updated portfolio provides the following content:
 
 # Screenshot of the main page
 
-https://github.com/tomaspz/resume-portfolio/blob/master/assets/img/screenshot-resume-portfolio.png
+![image](https://github.com/tomaspz/resume-portfolio/blob/master/assets/img/screenshot-resume-portfolio.png)
 
 # URL to the resume
 
