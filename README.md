@@ -1,7 +1,7 @@
 # Resume and Portfolio
 
 * This updated portfolio features the project [Concert Hunt](https://tomaspz.github.io/concerthunt/) and other coding examples. 
-* The project Concert Hunt is a web application that uses music APIs to get information about a specific artist, album or song.
+* The project [Concert Hunt](https://tomaspz.github.io/concerthunt/) is a web application that uses music APIs to get information about a specific artist, album or song.
 
 * Other featured coding examples are:
    * [Weather Dashboard](https://tomaspz.github.io/weather-dashboard/): an web app that allows a user to search the weather for a specific city and gives the user the current weather and a 5 day forecast.
@@ -42,7 +42,7 @@ The updated portfolio provides the following content:
 
 ### Resume URL
 
-* The [Resume](./assets/docs/TPZ-Resume.pdf)is provided in PDF format.
+* The [Resume](./assets/docs/TPZ-Resume.pdf) is provided in PDF format.
 
 ### LinkedIn Profile 
 
