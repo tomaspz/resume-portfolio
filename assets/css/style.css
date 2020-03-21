@@ -176,9 +176,9 @@
    color: rgb(151, 151, 147);
  }
 
- .foot-links {
-   font-size: 16px;
- }
+.foot-links {
+    font-size: 16px;
+}
 
  .foot-links > li {
    display: inline;
@@ -197,3 +197,4 @@
  footer {
    padding-top: 10px;
  }
+

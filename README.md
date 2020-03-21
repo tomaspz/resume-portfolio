@@ -1,110 +1,66 @@
 # Resume and Portfolio
 
-## Requirements
+* This updated portfolio features the project Concert Hunt and other coding examples. 
+* The project Concert Hunt is a web application that uses music APIs to get information about a specific artist, album or song.
 
-* Updated portfolio featuring project 1 and two exemplary homework assignments. 
+* Other featured coding examples are:
+   * Weather Dashboard: an web app that allows a user to search the weather for a specific city and gives the user the current weather and a 5 day forecast.
+   * Password Generator: a web app that allows a user to generate a random password. Once the user presses the button "Generate Password", additional questions are asked about the type of characters the user wants to include in the password. The password generated is in betweeen 8 and 128 characters, which is also selected by the user.
+   * Day Planner: a web app that allows a user to set daily tasks during working hours.
+   * Code Refactor: a sample of cleaning and polishing HTML and CSS code.
 
-* Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments. 
+* This portfolio includes a copy of an updated resume and a link to the LinkedIn profile
 
-* Updated resume
+## Updated Portfolio
 
-* Updated LinkedIn profile
+The updated portfolio provides the following content:
 
-
-## Grading
-
-| Requirement      | Weight |
-|---               |---     |
-| Portoflio        | 40%    |
-| GitHub Profile   | 40%    |
-| Resume           | 10%    |
-| LinkedIn Profile | 10%    |
-
-
-## Instructions
-
-1. [Updated Portfolio](#updated-portfolio)
-2. [GitHub Profile](#updated-github-profile)
-3. [Updated Resume](#updated-resume)
-4. [Updated LinkedIn](#updated-linkedin)
-
-### Updated Portfolio
-
-Your updated site should have the following content:
-
-* Your name
-
-* Links to your GitHub profile & LinkedIn page as well as your email address and phone number
-
-* A link to a PDF of your resume
-
-* A list of projects. For each project, make sure you have the following:
+* Name and city
+* Links to the GitHub profile, LinkedIn page and the email address
+* A link to a PDF of the resume
+* A portfolio page contains a list of projects in the following format:
 
   * Project title
-
-  * Link to the deployed version
-
   * Link to the GitHub repository
-
-  * Screenshot of the deployed application
-
-
-#### Design
-
-Unfortunately, this is where it gets a little bit subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
-
-* Mobile-first design
-
-* Choose a color palette for your site so it doesn't just look like
-the default bootstrap theme or an unstyled HTML site.
-
-* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
+  * Link and screenshot of the deployed application
 
 
-### Updated GitHub Profile 
+## Updated Design
 
-* If you haven't yet, now is the time to update the following in your GitHub profile: 
+* The site design looks "polished." 
+* Mobile-first design.
+* An appropiate color palette.
+* The font size is large enough to read.
+
+
+## Updated GitHub Profile 
+
+* Now the GitHub profile contains: 
 
     * Profile picture
-
     * Bio
-
     * Location
-
     * Email
+    * Link to the portfolio
 
-    * Link to your portfolio
+## Resume URL
 
-* Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
-
-* Pin some repos that you want to highlight
-
-  * Navigate to [GitHub](https://github.com/) and go to your profile.
-
-  * Click "Customize your pins"
-
-  * Click the checkboxes for your project and 2-3 homework assignments that you would like to share
-
-  * Make sure each of these projects is deployed and add a link to the deployed project in their README files
-
-* Follow your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code. 
+https://github.com/tomaspz/resume-portfolio/blob/master/assets/docs/TPZ-Resume.pdf
 
 
-### Updated Resume 
+## LinkedIn Profile 
 
-Submit a clear, concise and compelling resume, tailored to the type of job you’re looking for.
+* The LinkedIn Profile has been updated with a strong bio statement, a professional photo, and links to Github and portfolio.
+
+## Portfolio Screenshot
+
+![image](https://github.com/tomaspz/resume-portfolio/blob/master/assets/img/screenshot-resume-portfolio.png)
 
 
-### Updated LinkedIn Profile 
-
-Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
-
-
-# URL to GitHub repository
+## GitHub Repository URL
 
 https://github.com/tomaspz/resume-portfolio
 
-# URL to deployed app
+## Deployed App URL
 
 https://tomaspz.github.io/resume-portfolio/.
