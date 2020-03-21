@@ -14,55 +14,49 @@
 
 * This portfolio includes a copy of an updated resume and a link to the LinkedIn profile
 
-## Updated Portfolio
+### Portfolio
 
 The updated portfolio provides the following content:
 
 * Name and city
 * Links to the GitHub profile, LinkedIn page and the email address
 * A link to a PDF of the resume
-* A portfolio page contains a list of projects in the following format:
-
+* The phone number
+* The portfolio page contains a list of projects in the following format:
   * Project title
   * Link to the GitHub repository
   * Link and screenshot of the deployed application
 
-
-## Updated Design
-
-* The site design looks "polished." 
-* Mobile-first design.
-* An appropiate color palette.
+* The site design looks "polished" and has an appropiate color palette. 
+* It is mobile-first design and follows accessibility best practices.
 * The font size is large enough to read.
 
-
-## Updated GitHub Profile 
+### GitHub Profile 
 
 * Now the GitHub profile contains: 
-
     * Profile picture
     * Bio
     * Location
     * Email
     * Link to the portfolio
 
-## Resume URL
+### Resume URL
 
-[Resume](./assets/docs/TPZ-Resume.pdf)
+* The [Resume](./assets/docs/TPZ-Resume.pdf)is provided in PDF format.
 
-## LinkedIn Profile 
+### LinkedIn Profile 
 
-* The [LinkedIn](https://www.linkedin.com/in/tomas-perez-zafon/) Profile has been updated with a strong bio statement, a professional photo, and links to Github and portfolio.
+* The [LinkedIn](https://www.linkedin.com/in/tomas-perez-zafon/) Profile has been updated with a strong bio statement, a professional photo, and links to the Github repository and the resume portfolio website.
 
-## Portfolio Screenshot
+### Portfolio Website Screenshot
 
-![image](https://github.com/tomaspz/resume-portfolio/blob/master/assets/img/screenshot-resume-portfolio.png)
+* ![image](https://github.com/tomaspz/resume-portfolio/blob/master/assets/img/screenshot-resume-portfolio.png)
 
 
-## GitHub Repository URL
+### GitHub Repository URL
 
-[Resume & Portfolio](https://github.com/tomaspz/resume-portfolio)
+* [Resume & Portfolio](https://github.com/tomaspz/resume-portfolio)
 
-## Deployed App URL
+### Deployed App URL
 
-[Deployed App](https://tomaspz.github.io/resume-portfolio/.)
+* [Deployed App](https://tomaspz.github.io/resume-portfolio/.)
