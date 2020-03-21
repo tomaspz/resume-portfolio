@@ -179,6 +179,7 @@
 .foot-links {
     font-size: 16px;
 }
+
  .foot-links > li {
    display: inline;
    margin-right: 30px;
@@ -187,3 +188,13 @@
  .foot-backgr {
    background-color: #2c3840;
  }
+
+.column {
+   margin-top: 20px;
+   margin-bottom: 10px;
+ }
+
+ footer {
+   padding-top: 10px;
+ }
+
