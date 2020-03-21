@@ -45,8 +45,7 @@ The updated portfolio provides the following content:
 
 ## Resume URL
 
-https://github.com/tomaspz/resume-portfolio/blob/master/assets/docs/TPZ-Resume.pdf
-
+[Resume](./assets/docs/TPZ-Resume.pdf)
 
 ## LinkedIn Profile 
 
